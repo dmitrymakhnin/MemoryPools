@@ -1,0 +1,1 @@
+g++ main.cpp pools.cpp -o main -lstdc++
